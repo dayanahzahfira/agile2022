@@ -1,4 +1,8 @@
 haii semuanya
+<<<<<<< HEAD
 ini percobaan menggunakan git
 hari ini kita mencoba ya
 ini contohnya
+=======
+ini percobaan menggunakan git 
+>>>>>>> parent of c091a93 (commit M04)
